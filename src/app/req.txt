@@ -1,5 +1,5 @@
-axios
-leaflet 
-react-leaflet
-mathjs
-react-markdown
+axios 
+leaflet  
+react-leaflet 
+mathjs 
+react-markdown 
